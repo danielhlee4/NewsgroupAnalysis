@@ -1,5 +1,10 @@
 # Data
 data/
+20_newsgroup.csv
+
+# Other notebooks
+NewsgroupAnalysis.ipynb
+nlp_topic_utils.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
